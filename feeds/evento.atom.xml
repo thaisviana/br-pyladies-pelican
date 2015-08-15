@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pyladies Brasil</title><link href="/" rel="alternate"></link><link href="/feeds/evento.atom.xml" rel="self"></link><id>/</id><updated>2015-03-26T00:00:00-03:00</updated><entry><title>Encontro PyLadies Recife</title><link href="/encontro-pyladies-recife.html" rel="alternate"></link><updated>2015-03-26T00:00:00-03:00</updated><author><name>Aninha Lacerda</name></author><id>tag:,2015-03-26:encontro-pyladies-recife.html</id><summary type="html">&lt;p&gt;Olá Meninas!&lt;/p&gt;
+&lt;p&gt;Estamos com um super evento programado para vocês em Recife. Sábado, 28 de Março na Cafeteria Café Café em Boa Viagem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vai ter mão no código! Vai ter Coding Dojo! Vai ter Python!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_dojo.jpg"&gt;&lt;img style="float: right; width: 70%;
+" src="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_dojo.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Programação:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;13h30: Boas vindas e apresentação PyLadies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;14h30: Construindo um Google Pyrate - Roselma Mendes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15h20: Coding Dojo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;17h: Encerramento
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uma forma colaborativa de todas, independente do nível de conhecimento, programarem e desenvolverem juntas as soluções para os desafios que estamos preparando!&lt;/p&gt;
+&lt;p&gt;Infelizmente dessa vez o espaço foi pouco para todas, mas não deixe de se inscrever para lista de espera, assim podemos nos organizar melhor para o próximo: &lt;a href="www.meetup.com/Women-Who-Code-Recife/events/221390351/"&gt;Inscrições aqui!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_cafe.jpg"&gt;&lt;img style="width: 40%;
+" src="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_cafe.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;beijos.
+&lt;a href="http://aninhalacerda.com"&gt;Aninha&lt;/a&gt;&lt;/p&gt;</summary><category term="evento"></category><category term="coding"></category></entry></feed>
