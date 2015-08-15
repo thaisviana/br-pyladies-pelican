@@ -52,5 +52,20 @@
     <priority>1.0</priority>
   </url>
 
+  <url>
+    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/events/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/ladies/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/locations/</loc>
+    <priority>1.0</priority>
+  </url>
+
 
 </urlset>
