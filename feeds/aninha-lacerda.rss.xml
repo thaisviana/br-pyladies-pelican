@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Pelican Blog</title><link>http://pyladies-curitiba.github.io/br-pyladies-pelican/</link><description></description><atom:link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/feeds/aninha-lacerda.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 26 Mar 2015 00:00:00 +0000</lastBuildDate><item><title>Encontro PyLadies Recife</title><link>http://pyladies-curitiba.github.io/br-pyladies-pelican/encontro-pyladies-recife.html</link><description>&lt;p&gt;Olá Meninas!&lt;/p&gt;
+&lt;p&gt;Estamos com um super evento programado para vocês em Recife. Sábado, 28 de Março na Cafeteria Café Café em Boa Viagem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vai ter mão no código! Vai ter Coding Dojo! Vai ter Python!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_dojo.jpg"&gt;&lt;img style="float: right; width: 70%;
+" src="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_dojo.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Programação:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;13h30: Boas vindas e apresentação PyLadies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;14h30: Construindo um Google Pyrate - Roselma Mendes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15h20: Coding Dojo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;17h: Encerramento
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uma forma colaborativa de todas, independente do nível de conhecimento, programarem e desenvolverem juntas as soluções para os desafios que estamos preparando!&lt;/p&gt;
+&lt;p&gt;Infelizmente dessa vez o espaço foi pouco para todas, mas não deixe de se inscrever para lista de espera, assim podemos nos organizar melhor para o próximo: &lt;a href="www.meetup.com/Women-Who-Code-Recife/events/221390351/"&gt;Inscrições aqui!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_cafe.jpg"&gt;&lt;img style="width: 40%;
+" src="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_cafe.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;beijos.
+&lt;a href="http://aninhalacerda.com"&gt;Aninha&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aninha Lacerda</dc:creator><pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate><guid>tag:pyladies-curitiba.github.io,2015-03-26:br-pyladies-pelican/encontro-pyladies-recife.html</guid><category>evento</category><category>coding</category></item><item><title>Hangout PyLadies</title><link>http://pyladies-curitiba.github.io/br-pyladies-pelican/hangout-pyladies.html</link><description>&lt;p&gt;Chegou a hora!
+Quer montar um grupo na sua cidade ou conhecer melhor a nossa comunidade?&lt;/p&gt;
+&lt;p&gt;Nós, ladies do PyLadies Brasil, vamos tirar todas as dúvidas que você tem sobre o PyLadies e te mostrar como é simples e recompensador criar um grupo PyLadies na sua cidade.&lt;/p&gt;
+&lt;p&gt;Vamos falar sobre quem é o PyLadies Brasil hoje, os eventos que já fizemos e desafios que já enfrentamos, além de o que é preciso para começar um grupo você mesma.&lt;/p&gt;
+&lt;p&gt;O hangout vai ao ar no dia &lt;strong&gt;24 de Janeiro (sábado), às 10h (horário de Brasília)&lt;/strong&gt; e teremos meninas de grupos de vários lugares do Brasil conversando sobre a comunidade PyLadies! &lt;strong&gt;Não perca.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diga &lt;strong&gt;SIM&lt;/strong&gt; no nosso evento e não esqueça de participar: &lt;a href="https://plus.google.com/events/c1tpmmqj24r92ed3er49dhq5juc"&gt;Hangout PyLadies Brasil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Hangout PyLadies" src="{{site.baseurl}}/themes/images/hangouts.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+beijos.
+&lt;a href="http://aninhalacerda.com"&gt;Aninha&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aninha Lacerda</dc:creator><pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate><guid>tag:pyladies-curitiba.github.io,2015-01-22:br-pyladies-pelican/hangout-pyladies.html</guid><category>info</category></item><item><title>PyLadies First</title><link>http://pyladies-curitiba.github.io/br-pyladies-pelican/pyladies-first.html</link><description>&lt;p&gt;No final do ano passado, logo depois do PythonBrasil, recebemos um email do &lt;a href="https://twitter.com/mateuscaruccio"&gt;Mateus Caruccio&lt;/a&gt; da &lt;a href="https://getupcloud.com/index.html"&gt;GetupCloud&lt;/a&gt; que além de nos parabenizar pela iniciativa e nos dar um grande incentivo, nos convidou para participar de um bate papo ao vivo e conversar sobre a iniciativa do PyLadies Brasil.&lt;/p&gt;
+&lt;p&gt;A idéia do bate papo era apresentar o PyLadies, compartilhar ideias, experiências e dúvidas, além de discutir um pouco sobre como se encontra a área de TI para mulheres hoje.&lt;/p&gt;
+&lt;p&gt;Durante a conversa respondemos perguntas como: &lt;em&gt;"O evento PyLadies é só para mulheres?"&lt;/em&gt;, &lt;em&gt;"Tem diferença o código de uma mulher para de um homem?"&lt;/em&gt;, entre outras.&lt;/p&gt;
+&lt;p&gt;Você pode conferir toda a conversa aqui: &lt;a href="https://www.youtube.com/watch?v=KGt1hUxMPZY"&gt;PyLadies First Hangout&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;embed width="300" height="215" src="//www.youtube.com/embed/KGt1hUxMPZY"&gt;&lt;/p&gt;
+&lt;p&gt;Gostou? Tem alguma sugestão? Então nos deixa um comentário :)&lt;/p&gt;
+&lt;p&gt;beijos.
+&lt;a href="http://aninhalacerda.com"&gt;Aninha&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aninha Lacerda</dc:creator><pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate><guid>tag:pyladies-curitiba.github.io,2015-01-21:br-pyladies-pelican/pyladies-first.html</guid><category>info</category><category>video</category></item></channel></rss>

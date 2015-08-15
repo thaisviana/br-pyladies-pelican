@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/" rel="alternate"></link><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/feeds/all-en.atom.xml" rel="self"></link><id>http://pyladies-curitiba.github.io/br-pyladies-pelican/</id><updated>2015-05-16T00:00:00+00:00</updated><entry><title>Comunidade com C maiúsculo</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/comunidade-com-c-maiusculo.html" rel="alternate"></link><updated>2015-05-16T00:00:00+00:00</updated><author><name>Gabriela Cavalcante</name></author><id>tag:pyladies-curitiba.github.io,2015-05-16:br-pyladies-pelican/comunidade-com-c-maiusculo.html</id><summary type="html">&lt;p&gt;O que dizer dessa comunidade que considero pacas?&lt;/p&gt;
+&lt;p&gt;Você já se viu em um lugar onde é bem recebido, é entendido, incentivado, considerado, respeitado, valorizado e onde as pessoas sempre estão abertas a te ouvir e te dar críticas construtivas? Não?! Então te aconselho profundamente que apareça nos eventos da comunidade Python. Dizem que eles andam mudando a vida das pessoas.&lt;/p&gt;
+&lt;p&gt;Esse fim de semana aconteceu em Natal/RN o Python Nordeste 2015. E claro que o PyLadies Brasil não poderia faltar. E é claro que o evento também não poderia deixar de ser incrível. Participar dele me fez lembrar como somos sortudas por fazer parte dessa comunidade.&lt;/p&gt;
+&lt;p&gt;Durante o evento conhecemos pessoas que foram capazes de abrir mão do sono para tirar dúvidas e compartilhar experiências. Conhecemos exemplos de profissionais incríveis que mesmo já tendo gasto a garganta falando nas talks, ainda estavam dispostos a falar mais para satisfazer a curiosidade e os questionamentos de cada participante. Conhecemos pessoas com projetos maravilhosos sem medo de compartilhar conhecimento. Conhecemos pessoas que mesmo com toda a ocupação e tabalho, ainda coseguiam fazer poesia entre um correria e outra. Conhecemos pessoas que são voluntárias em uma causa não pelo dinheiro, mas pelo prazer que trabalhar naquilo que acreditam. Pessoas fantásticas que fazem com que tenhamos prazer de dizer 'faço parte da mesma comunidade que ela'. Pessoas que nos fazem entender o que é uma verdadeira comunidade.&lt;/p&gt;
+&lt;p&gt;Durante o encontro, fizemos novos contatos, reatamos outros, abrimos novos grupos PyLadies, descobrimos novas iniciativas, prometemos a nós mesmas nos envolvermos em todas elas (mesmo sem tempo suficiente para fazer isso), construimos vários laços, aprendemos muitas tecnologias, e com certeza, vamos levar todas essas experiências para sempre.&lt;/p&gt;
+&lt;p&gt;Agora que o evento acabou, esperamos que venham outros... outros eventos, outros encontros, outras iniciativas, novos contribuintes... Esperamos que essa sensação prazerosa que a comunidade Python nos dá nunca acabe. E que venha Python Nordeste 2016 em Teresina/Piauí \o E a Python Brasil 2015 em São Carlos/SP.&lt;/p&gt;
+&lt;p&gt;Até mais para tod@s, &lt;br&gt;
+qualquer coisa é só gritar.&lt;br&gt;
+&lt;a href="http://i-am-gabi.github.io/"&gt;Gabi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Python Nordeste 2015" src="{{SITEURL}}/themes/images/pyne.jpg" /&gt;&lt;/p&gt;</summary><category term="eventos"></category></entry><entry><title>Encontro PyLadies Recife</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/encontro-pyladies-recife.html" rel="alternate"></link><updated>2015-03-26T00:00:00+00:00</updated><author><name>Aninha Lacerda</name></author><id>tag:pyladies-curitiba.github.io,2015-03-26:br-pyladies-pelican/encontro-pyladies-recife.html</id><summary type="html">&lt;p&gt;Olá Meninas!&lt;/p&gt;
+&lt;p&gt;Estamos com um super evento programado para vocês em Recife. Sábado, 28 de Março na Cafeteria Café Café em Boa Viagem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vai ter mão no código! Vai ter Coding Dojo! Vai ter Python!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_dojo.jpg"&gt;&lt;img style="float: right; width: 70%;
+" src="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_dojo.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Programação:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;13h30: Boas vindas e apresentação PyLadies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;14h30: Construindo um Google Pyrate - Roselma Mendes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15h20: Coding Dojo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;17h: Encerramento
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uma forma colaborativa de todas, independente do nível de conhecimento, programarem e desenvolverem juntas as soluções para os desafios que estamos preparando!&lt;/p&gt;
+&lt;p&gt;Infelizmente dessa vez o espaço foi pouco para todas, mas não deixe de se inscrever para lista de espera, assim podemos nos organizar melhor para o próximo: &lt;a href="www.meetup.com/Women-Who-Code-Recife/events/221390351/"&gt;Inscrições aqui!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_cafe.jpg"&gt;&lt;img style="width: 40%;
+" src="{{ SITEURL }}/themes/images/pyladies_recife_event/pyladies_recife_cafe.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;beijos.
+&lt;a href="http://aninhalacerda.com"&gt;Aninha&lt;/a&gt;&lt;/p&gt;</summary><category term="evento"></category><category term="coding"></category></entry><entry><title>Minha experiência na CPBR8</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/minha-experiencia-na-cpbr8.html" rel="alternate"></link><updated>2015-03-11T00:00:00+00:00</updated><author><name>Juliana Karoline</name></author><id>tag:pyladies-curitiba.github.io,2015-03-11:br-pyladies-pelican/minha-experiencia-na-cpbr8.html</id><summary type="html">&lt;p&gt;Demorou mas o post saiu!
+Desculpem pelo delay, meninas, mas eu precisava de um tempinho para processar tudo que aconteceu na #cpbr8.&lt;/p&gt;
+&lt;p&gt;Primeiramente vou me apresentar: me chamo Juliana, tenho 19 anos e estou cursando o segundo ano de Engenharia de Computação na UFSCar (Universidade Federal de São Carlos, no interior de SP). Cofundei o PyLadies São Carlos junto com a Gabi e as garotas no final de 2014. Antes disso passei quase um ano cercada apenas por garotos e professores, pois sou a única garota da minha turma. Talvez por esse motivo, percebo como faz diferença ter uma comunidade para te apoiar e encontrar pessoas que compartilham dos mesmos gostos que você.&lt;/p&gt;
+&lt;p&gt;Já havia conhecido algumas comunidades virtuais na adolescência, a ideia de encontrar pessoas com os mesmos gostos que eu sempre foi uma coisa que me atraiu muito, e o PyLadies foi a primeira oportunidade que tive de me conectar com garotas que estão na computação porque gostam e não se intimidam com as dificuldades da área.&lt;/p&gt;
+&lt;p&gt;Esse ano participei da Campus Party e foi simplesmente uma das experiências mais incríveis que já tive: descobri outras iniciativas voltadas para mulheres e minorias, assisti palestras bem bacanas, conheci pessoas fantásticas e fiz um belo networking!
+Foi a primeira vez que tive contato com a comunidade presencialmente e foi muito legal conhecer mulheres que já trabalham com tecnologia e compartilham suas experiências com quem está começando.&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/theme/images/cpbr8/cpbr1.jpg"&gt;&lt;img src="{{ SITEURL }}/theme/images/cpbr8/cpbr1.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vou listar algumas das minhas experiências e conteúdos que assisti, todas as palestras podem ser assistidas no &lt;a href="http://campuse.ro"&gt;campuse.ro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pessoas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eu já conhecia o trabalho da &lt;a href="http://www.marciacarioni.info/"&gt;Márcia Carioni&lt;/a&gt;, pois temos alguns grupos em comum no Facebook, e tive a oportunidade de conhecê-la pessoalmente durante a Campus. Ela é empresária e professora de Informática Educativa para Terceira Idade, e só trabalha com aulas VIP, onde suas alunas são pintoras, advogadas, médicas, empresárias, professoras, mulheres que só tiveram tempo para descobrir o mundo tecnológico após se aposentarem, por mais graduadas que sejam.
+Para ela, o preconceito com as mulheres na tecnologia deve ser combatido desde a infância, com briquedos que estimulam a criatividade e o raciocínio, além de jogos de lógica.&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/theme/images/cpbr8/marcia.jpg"&gt;&lt;img src="{{ SITEURL }}/theme/images/cpbr8/marcia.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iniciativas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=K6O4VBJDZdY"&gt;"Women &amp;amp; Mozilla - Conheça o WoMoz e saiba como envolver-se"&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A Mel Devens apresentou no palco Urano (Desenvolvimento) o WoMoz, que é a comunidade da Mozilla dedicada a aumentar o envolvimento de mulheres nos projetos de software livre da Mozilla, e deixou aberto o convite para quem quiser participar: basta se inscrever na lista de emails da Mozilla e dizer que quer fazer parte (:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bate-papos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=0cLRRRshhuc"&gt;"Uma ideia na cabeça e um código na tela"&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bate-papo com coders empreendedores onde a Camila Achutti (infelizmente não consegui conversar com ela) apresentou o Technovation Challenge Brasil, a maior competição do mundo para meninas em tecnlogia.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=WN2rwkh42-o"&gt;"Mulheres na Tecnlogia, promovida pelo Facebook"&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Promovido pelo Facebook, esse bate-papo com diversas mulheres de empresas importantes de tecnologia (Whatsapp, Xiaomi, Qualcomm) foi hosteado pela Laura González-Estéfani, líder de parcerias do Facebook na América Latina, onde cada uma compartilhou suas experiências profissionais, situações complicadas que já passaram ou preconceitos que sofreram por serem mulheres e contaram como fizeram para conciliar a vida familiar com a carreira.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=IuJPX_JL_bs"&gt;"Aqui quem manda são as mulheres"&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Outro bate-papo, dessa vez com mulheres empreendedoras, que exporam seus projetos e startups, deram dicas de como conseguiram lançar seus produtos e discutiram como as mulheres podem entrar no espírito empreendedor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parcerias&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Oficina de Chão + Intel"&lt;/p&gt;
+&lt;p&gt;Participei da Oficina de Chão, ministrada pelo Alexandre Casemonstro, e tive a honra de ser patrocinada pela Intel e ganhar uma placa Intel Galileo gen2 para desenvolver meus projetos durante 2015! Foi uma experiência super bacana construir o Minion Mc Fly (De Volta Pro Futuro) e vou continuar trabalhando nele para apresentar a versão 2.0 na CPRB9 em 2016.&lt;/p&gt;
+&lt;figure class="halfmin"&gt;
+    &lt;a href="{{ SITEURL }}/theme/images/cpbr8/cpbr2.jpg"&gt;&lt;img src="{{ SITEURL }}/theme/images/cpbr8/cpbr2.jpg"&gt;&lt;/a&gt;
+    &lt;a href="{{ SITEURL }}/theme/images/cpbr8/cpbr3.png"&gt;&lt;img src="{{ SITEURL }}/theme/images/cpbr8/cpbr3.png"&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Considerações Finais&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No geral achei a grade da programação bem diversa, tinha várias atividades voltadas para mulheres (infelizmente nem todas estão disponíveis no site, como as oficinas das garotas do Technovation).&lt;/p&gt;
+&lt;p&gt;Espero que no próximo ano as garotas de São Carlos (e quem sabe as do Nordeste também?) possam ir junto comigo para representarmos o PyLadies todas juntas por lá! Quero muito que mais pessoas tenham a mesma experiência que eu tive, pois para mim foi muito gratificante sentir que faço parte de uma comunidade tão grande e ao mesmo tempo bem diversificada.&lt;/p&gt;
+&lt;p&gt;Até a próxima!&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</summary><category term="info"></category></entry><entry><title>Como começar um grupo PyLadies</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/como-comecar-um-grupo-pyladies.html" rel="alternate"></link><updated>2015-02-09T00:00:00+00:00</updated><author><name>Gabriela Cavalcante</name></author><id>tag:pyladies-curitiba.github.io,2015-02-09:br-pyladies-pelican/como-comecar-um-grupo-pyladies.html</id><summary type="html">&lt;p&gt;Bateu aquela vontade de começar uma iniciativa que movimente as meninas da sua comunidade e que te ligue a uma rede de outras meninas por todo o mundo?&lt;/p&gt;
+&lt;p&gt;Acho que o PyLadies pode ser o que você está procurando, mas sempre bate aquela dúvida... "Como é que eu começo?".&lt;/p&gt;
+&lt;p&gt;No fim de Janeiro nós fizemos um &lt;a href="https://www.youtube.com/watch?v=QMzYwpqLRvE"&gt;Hangout&lt;/a&gt; especialmente para esclarecer dúvidas sobre o PyLadies e o processo de inicío de novos grupos. Caso você não tenha participado, nós gravamos com carinho para você dar uma conferida.&lt;/p&gt;
+&lt;iframe src="https://www.youtube.com/embed/QMzYwpqLRvE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Se você ainda tem dúvidas sobre como o PyLadies funciona, posso citar uma das características mais interessantes do grupo e que por si só já explica muito sobre nós: somos uma COMUNIDADE. Somos um grupos de pessoas que fazem acontecer com o objetivo de melhorar o ambiente em que vivemos. E fazemos isso pelo prazer de ver mudanças e melhorias. Pelo prazer de colaborar e contribuir. Sabendo que não somos os donos do movimento, mas somos partes dele... e fazemos apenas com que ele cresça e continue. Então, o que é necessário para começar um grupo PyLadies no local em que você mora? Bem, basta ter iniciativa e vontade de contribuir.&lt;/p&gt;
+&lt;p&gt;Algumas pessoas sempre nos perguntam se tem algum processo para serem aceitas para começarem a contribuir ou para começar grupos locais. Ou então se existem requisitos necessários para ser uma 'PyLady'. Nós queremos apenas que você entenda o propósito do grupo e queira contribuir. Contribuir ensinando, educando, colaborando, programando, incentivando, compartilhando ou agindo como puder para fazer com que mais meninas sejam incentivadas.&lt;/p&gt;
+&lt;p&gt;Não precisamos que você já saiba programar em Python, ou que saiba programar. Queremos que você esteja interessada. Se ainda estiver insegura com relação a conteúdos de programação, nós podemos encaminhar cursos, marcar hangots, mandar materiais, acompanhar seu crescimento, trocar email corrigindo código... o que for possível, nós estamos dispostas. Só precisamos que você também esteja.&lt;/p&gt;
+&lt;p&gt;Ainda quer saber mais informações? Dá uma olhada no nosso &lt;a href="http://brazilpyladies.gitbooks.io/handbook/"&gt;Handbook&lt;/a&gt;, lá você vai encontrar dicas, sugestões e informações necessárias para começar seu grupo. Se ainda ficar alguma dúvida, nos mande um email (brazil@pyladies.com), um &lt;a href="https://twitter.com/PyLadiesBrazil"&gt;tweet&lt;/a&gt; ou uma mensagem no &lt;a href="https://www.facebook.com/pyladies.brasil"&gt;facebook&lt;/a&gt;. Vamos te responder com o maior prazer =]&lt;/p&gt;
+&lt;p&gt;Até mais para tod@s,
+qualquer coisa é só gritar.&lt;br&gt;
+&lt;a href="http://i-am-gabi.github.io/"&gt;Gabi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</summary><category term="info"></category></entry><entry><title>Hangout PyLadies</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/hangout-pyladies.html" rel="alternate"></link><updated>2015-01-22T00:00:00+00:00</updated><author><name>Aninha Lacerda</name></author><id>tag:pyladies-curitiba.github.io,2015-01-22:br-pyladies-pelican/hangout-pyladies.html</id><summary type="html">&lt;p&gt;Chegou a hora!
+Quer montar um grupo na sua cidade ou conhecer melhor a nossa comunidade?&lt;/p&gt;
+&lt;p&gt;Nós, ladies do PyLadies Brasil, vamos tirar todas as dúvidas que você tem sobre o PyLadies e te mostrar como é simples e recompensador criar um grupo PyLadies na sua cidade.&lt;/p&gt;
+&lt;p&gt;Vamos falar sobre quem é o PyLadies Brasil hoje, os eventos que já fizemos e desafios que já enfrentamos, além de o que é preciso para começar um grupo você mesma.&lt;/p&gt;
+&lt;p&gt;O hangout vai ao ar no dia &lt;strong&gt;24 de Janeiro (sábado), às 10h (horário de Brasília)&lt;/strong&gt; e teremos meninas de grupos de vários lugares do Brasil conversando sobre a comunidade PyLadies! &lt;strong&gt;Não perca.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diga &lt;strong&gt;SIM&lt;/strong&gt; no nosso evento e não esqueça de participar: &lt;a href="https://plus.google.com/events/c1tpmmqj24r92ed3er49dhq5juc"&gt;Hangout PyLadies Brasil&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Hangout PyLadies" src="{{site.baseurl}}/themes/images/hangouts.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+beijos.
+&lt;a href="http://aninhalacerda.com"&gt;Aninha&lt;/a&gt;&lt;/p&gt;</summary><category term="info"></category></entry><entry><title>PyLadies First</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/pyladies-first.html" rel="alternate"></link><updated>2015-01-21T00:00:00+00:00</updated><author><name>Aninha Lacerda</name></author><id>tag:pyladies-curitiba.github.io,2015-01-21:br-pyladies-pelican/pyladies-first.html</id><summary type="html">&lt;p&gt;No final do ano passado, logo depois do PythonBrasil, recebemos um email do &lt;a href="https://twitter.com/mateuscaruccio"&gt;Mateus Caruccio&lt;/a&gt; da &lt;a href="https://getupcloud.com/index.html"&gt;GetupCloud&lt;/a&gt; que além de nos parabenizar pela iniciativa e nos dar um grande incentivo, nos convidou para participar de um bate papo ao vivo e conversar sobre a iniciativa do PyLadies Brasil.&lt;/p&gt;
+&lt;p&gt;A idéia do bate papo era apresentar o PyLadies, compartilhar ideias, experiências e dúvidas, além de discutir um pouco sobre como se encontra a área de TI para mulheres hoje.&lt;/p&gt;
+&lt;p&gt;Durante a conversa respondemos perguntas como: &lt;em&gt;"O evento PyLadies é só para mulheres?"&lt;/em&gt;, &lt;em&gt;"Tem diferença o código de uma mulher para de um homem?"&lt;/em&gt;, entre outras.&lt;/p&gt;
+&lt;p&gt;Você pode conferir toda a conversa aqui: &lt;a href="https://www.youtube.com/watch?v=KGt1hUxMPZY"&gt;PyLadies First Hangout&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;embed width="300" height="215" src="//www.youtube.com/embed/KGt1hUxMPZY"&gt;&lt;/p&gt;
+&lt;p&gt;Gostou? Tem alguma sugestão? Então nos deixa um comentário :)&lt;/p&gt;
+&lt;p&gt;beijos.
+&lt;a href="http://aninhalacerda.com"&gt;Aninha&lt;/a&gt;&lt;/p&gt;</summary><category term="info"></category><category term="video"></category></entry><entry><title>Primeiro encontro no Brasil</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/primeiro-encontro-no-brasil.html" rel="alternate"></link><updated>2014-10-18T00:00:00+00:00</updated><author><name>Gabriela Cavalcante</name></author><id>tag:pyladies-curitiba.github.io,2014-10-18:br-pyladies-pelican/primeiro-encontro-no-brasil.html</id><summary type="html">&lt;p&gt;Sabe aquele satisfação que dá quando quando vê que todo o esforço valeu a pena? Foi bem assim!&lt;/p&gt;
+&lt;p&gt;Muitas meninas, ótimas palestras e várias linhas de código Python. Tudo isso resume o primeiro encontro do PyLadies Brasil aqui em Natal.&lt;/p&gt;
+&lt;p&gt;Com auditório lotado, falamos sobre Python, TI, Mercado, Flask e sobre como a mulher está ganhando espaço no mercado. Nós tivemos a Professora Adja Ferreira, da UFRN falando sobre o fato da tecnologia ser uma área para mulheres também. Logo apos ela, a Camilla Crispin, que é Consultora de Desenvolvimento da ThoughtWorks e trabalha com projetos em ambiente ágil. Ela falou um pouco sobre a participação feminina na área, deu várias dicas para as garotas e falou um pouco sobre alguns dos problemas sofridos por algumas de nós no meio tecnológico, como a síndrome do impostor. Depois tivemos duas palestras, uma dada pela Débora Azevedo sobre Python (ela já é um fruto do PyLadies, é uma de nossas monitoras), e a última dada por Gabriela Cavalcante, uma das co-fundadoras do grupo aqui no Brasil, sobre o framework python Flask.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Laptop" src="{{" title="SITEURL }}/themes/images/primeiro-encontro.jpg" /&gt;&lt;/p&gt;
+&lt;div class="row"&gt;
+    &lt;div class="small-12 medium-6 columns"&gt;
+        &lt;blockquote&gt;"Participei da Primeira Edição do Evento PayLadies. Goestei muito do evento, principalmente do foco e da abordagem diferenciada adotada, que proporcionou pessoas que não sabem programar a entender a linguagem e filosofia do Python".&lt;/blockquote&gt;
+        &lt;i&gt;Daniele, desenvolvedora.&lt;/i&gt;
+    &lt;/div&gt;
+    &lt;div class="small-12 medium-6 columns"&gt;
+        &lt;blockquote&gt;"Conheci o Pyladies através de uma publicação no Facebebook em que estavam selecionando monitoras. Não dei muita atenção no inicío por achar que era necessário ter algum conhecimento em Python (o que eu não tinha), mas então a Gabriela mandou uma mensagem explicando direitinho que iriam formar as monitoras do zero para ajudarem no evento, e foi assim que virei monitora no Pyladies. O primeiro evento foi muito bom, todas estávamos nervosa, mas muito orgulhosas de ter conseguido alcançar muitas meninas. O Pyladies tem sido uma experiência incrível, pois está abrindo muitas oportunidades para conhecer novas pessoas, e poder auxiliar meninas a entrarem e também a continuarem na área.".&lt;/blockquote&gt;
+        &lt;i&gt;Samanta, monitora durante o evento.&lt;/i&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</summary><category term="eventos"></category><category term="natal"></category></entry><entry><title>Welcome to PyLadies!</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/welcome-to-pyladies.html" rel="alternate"></link><updated>2014-10-18T00:00:00+00:00</updated><author><name>PyLadies Brasil</name></author><id>tag:pyladies-curitiba.github.io,2014-10-18:br-pyladies-pelican/welcome-to-pyladies.html</id><summary type="html">&lt;p&gt;O PyLadies é uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Queremos mudar essa realidade de poucas garotas em uma área tão rica e fantásticas como a computação. E olhe que temos muita história nesse campo viu?!&lt;/p&gt;
+&lt;p&gt;Nós percebemos que não haviam motivos para sermos poucas em salas de cursos universitários e técnicos de informática e tecnologia pelo Brasil, então resolvemos nos organizar para dar um jeitinho nisso. Foi então que encontramos outras ladies pelo mundo, que se reuniam em nome da programação e falavam de abstração de um jeito que só ladies sabem falar.&lt;/p&gt;
+&lt;p&gt;Nosso desejo é mostrar às meninas que não há limites para sua capacidade intelectual. Se o desejo delas é escrever linhas de código. Pá! Façam isso. Se quiserem desenvolver super sistemas embarcados. Pá! Desenvolvam. Se querem só brincar fazendo algumas linhas de script python. Pá! Brinquem. E se quiserem revolucionar o mundo mesmo sem ter seu código fonte. Pá! Revolucionem. Por que vocês são capazes.&lt;/p&gt;
+&lt;p&gt;Nosso propósito não é segregar, pelo contrário, queremos criar o ambiente para que mais meninas sejam atraídas pela tecnologia. Nosso desejo é fazer com que elas nos vejam e pensem “Eu quero estar ai também!”.&lt;/p&gt;
+&lt;p&gt;E por que homens não podem entrar no nosso clube da luluzinha? Vocês, homens, não iam querer passar horas ouvindo sobre batons e POO ao mesmo tempo.&lt;/p&gt;
+&lt;p&gt;Bem vind@s!&lt;/p&gt;</summary><category term="info"></category></entry><entry><title>Primeiro encontro Recife</title><link href="http://pyladies-curitiba.github.io/br-pyladies-pelican/primeiro-encontro-recife.html" rel="alternate"></link><updated>2014-10-18T00:00:00+00:00</updated><author><name>Lidiane Monteiro</name></author><id>tag:pyladies-curitiba.github.io,2014-09-19:br-pyladies-pelican/primeiro-encontro-recife.html</id><summary type="html">&lt;p&gt;Lançamento do PyLadies Recife: um encontro para nunca mais esquecer!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pyladies-recife" src="{{SITEURL}}/themes/images/pyladiesRecifeOficial2.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;O 1º primeiro encontro do PyLadies Recife ocorreu em 06 de setembro, uma véspera de feriado em um sábado chuvoso, um contexto que em Recife se entende como quebra de participação em evento devido ao caos urbano e estrutural que toma a cidade. Apesar disso, o PyLadies Recife foi mais forte que qualquer situação controversa: reuniu cerca de 35 mulheres dispostas, curiosas e apaixonadas por computação, que queriam aprender mais, programar mais, conhecer mais, estudar mais…&lt;/p&gt;
+&lt;p&gt;COMO TUDO COMEÇOU…. Palestra de abertura: “Yes, we can do IT!”&lt;/p&gt;
+&lt;figure class="third"&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife01.jpg"&gt;&lt;img src="{{ SITEURL }}/themes/images/pyladiesRecife01.jpg"&gt;&lt;/a&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife02.jpg"&gt;&lt;img src="{{ SITEURL }}/themes/images/pyladiesRecife02.jpg"&gt;&lt;/a&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife10.jpg"&gt;&lt;img src="{{ SITEURL }}/themes/images/pyladiesRecife10.jpg"&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Palestrei junto com a &lt;a href="https://twitter.com/@andreza_paju"&gt;Andreza Leite&lt;/a&gt; \o/ Apresentamos 10 motivos para as mulheres aprenderem a programar: Iniciamos com o maior exemplo da história: Ada Lovelace; Passamos pelos casos que mais dificultam o aprendizado de programação e porque Python é uma solução didática e viável para bons projetos; usamos dados da diversidade de gênero de grandes empresas do vale do silício e outros dados educacionais que mostraram a necessidade das mulheres ocuparem com protagonismo o mercado de trabalho e a produção de conhecimento; apresentamos dicas de como aprender de forma produtiva e das lições que os mais experientes podem nos passar;  expomos alguns exemplo de mulheres que programam profissionalmente em Python….&lt;/p&gt;
+&lt;p&gt;Enfim, essas foram algumas das provas reais que apresentamos sobre: &lt;i&gt;“Yes, we can do IT!”&lt;/i&gt;.  E o melhor, não precisa ser algo difícil quando se tem a linguagem Python e comunidades para apoiar!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://speakerdeck.com/lidymonteiro/yes-we-can-do-it-pyladies-recife-2014"&gt;Slides da palestra aqui!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;No encerramento da palestra sortiei uma linda &lt;a href="https://inspiradanacomputacao.wordpress.com/2014/09/10/caneca-inspirada-estara-disponivel-em-setembro/"&gt;caneca InspirAda na Computação&lt;/a&gt;. A ganhadora foi Merciene Lacerda, estudante de Técnico em Informática para Internet da Faculdade dos Guararapes!&lt;/p&gt;
+&lt;figure class="halfmin"&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife03.jpg"&gt;&lt;img src="{{ SITEURL }}/themes/images/pyladiesRecife03.jpg"&gt;&lt;/a&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife04.jpg"&gt;&lt;img style="margin-left: 0%;" src="{{ SITEURL }}/themes/images/pyladiesRecife04.jpg"&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;E o melhor de tudo, fizemos um vídeo de encerramento da palestra: As meninas estavam meio tímidas mas saiu um ótimo registro!&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;“Vocês vão programar hoje, meninas?!”&lt;/i&gt;&lt;/p&gt;
+&lt;iframe src="//www.youtube.com/embed/z7WMb6UOqBE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sobre minha experiência pessoal na palestra&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Foi fantástico: Poder compartilhar ideias,  aprender com a força de vontade e curiosidade das meninas que estavam super atentas e interessadas em tudo, uma representação da realidade de que as mulheres querem, desejam atuar na área de tecnologia e  estão buscando se qualificar para isso. Também foi muito positivo ver homens assistindo a palestra e conhecendo a realidade das mulheres.&lt;/p&gt;
+&lt;p&gt;Outro fator que não posso deixar de registrar foi poder dividir aquele momento de conversa com os participantes junto com a Andreza Leite, uma pessoa sensacional e que sempre me acolhe bem quando busco sua orientação e apoio. Andreza é daquelas pessoas que adora dividir o conhecimento e a experiência, sabe avaliar ideias e critica seriamente sem desmotivar, gosta de software livre e desde o início da formação profissional está envolvida em eventos que incentivam a participação das mulheres na tecnologia. Atualmente é docente do departamento de Estatística e Informática da UFRPE e doutoranda pela UFPE.&lt;/p&gt;
+&lt;p&gt;O que destaco de aprendizado em exemplos positivos como o da Andreza Leite: O gabarito técnico deve ser humano, as titulações profissionais e pessoais não devem confundir com arrogância.  Conheci alguns no meio acadêmico, como professorxs ou pesquisadores, outros como profissionais do mercado que eram arrogantes pelo conhecimento que tinham, ao invés de trocar o conhecimento havia imposição e desdém pelas considerações do outro. Acredito que nada valem títulos se não forem símbolos de alguém que está sempre buscando conhecimento e, o mais importante, de um ser que compartilha aquilo que aprendeu da melhor forma possível.  Andreza é um bom exemplo e não custa nada reconhecer que são pessoas assim que devem nos manter inspirAda pela computação e pela ciência! Obrigada pela oportunidade de palestrar com você e pelo conhecimento compartilhado!&lt;/p&gt;
+&lt;p&gt;Após a palestra “Yes, we can do IT!” ocorreu a segunda parte do evento: Mão no código!&lt;/p&gt;
+&lt;p&gt;&lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife05.jpg"&gt;&lt;img src="{{ SITEURL }}/themes/images/pyladiesRecife05.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Inicialmente foi ensinado a preparação do ambiente para a customização do projeto de landing page com Flask Framework, um projeto simples mas bem funcional e útil para coleta de emails e estratégias de marketing.&lt;/p&gt;
+&lt;p&gt;Por fins didáticos, decidimos dividir os participantes em 4 grupos: 1 nível iniciante (onde foi apresentado a sintaxe da linguagem Python e conceitos de programação) e 3 nível intermediário (foi trabalhado o projeto de landing page com Flask Framework). Em cada grupo contamos com a orientação e apoio dos coaches, profissionais voluntários do PUG-PE, Thoughtworks, Python Brasil e C.E.S.A.R que ajudaram as meninas nos fundamentos da programação com python, execução do projeto e construção coletiva do passo a passo.&lt;/p&gt;
+&lt;figure class="halfmin"&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife06.jpg"&gt;&lt;img src="{{ SITEURL }}/themes/images/pyladiesRecife06.jpg"&gt;&lt;/a&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife07.jpg"&gt;&lt;img style="margin-left: 0%;" src="{{ SITEURL }}/themes/images/pyladiesRecife07.jpg"&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;figure class="halfmin"&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife08.jpg"&gt;&lt;img src="{{ SITEURL }}/themes/images/pyladiesRecife08.jpg"&gt;&lt;/a&gt;
+    &lt;a href="{{ SITEURL }}/themes/images/pyladiesRecife09.jpg"&gt;&lt;img style="margin-left: 0%;" src="{{ SITEURL }}/themes/images/pyladiesRecife09.jpg"&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;No geral, tivemos todos os níveis de conhecimento entre as participantes: meninas que nunca programaram, algumas tinha sido introduzidas ao mundo da programação com portugol, outras já eram desenvolvedoras, tinham professoras, mestrandas, doutorandas e concursadas no setor público de tecnologia. Nessa diversidade toda a unidade de aprender e trocar conhecimento foi brilhante! Haviam também momentos de discussão sobre fundamentos da linguagem python,  programação em geral, frameworks, controle de versão e tudo mais!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Balanço do Evento&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Estimo que o momento de maior público do evento tenha sido entre de 40-45 participantes (mulheres e homens), sendo 90% mulheres! E apesar do foco do PyLadies ser mesmo trazer as mulheres, sabemos bem o quanto é difícil reunir esse número em um evento voltado para programação e computação em qualquer parte do país! Em Recife temos um quadro relativamente melhor devido as iniciativas que aconteceram pela comunidade (Technovation Challenge Brasil, Women Who Code – Recife, Geek Night Recife) desde o início do ano e que hoje, em 9 meses, já percebemos  resultados positivos ainda que estejamos muito distante do quadro que queremos chegar. É evidente que as mulheres precisam de mais oportunidades, motivações e iniciativas como o PyLadies Recife e as anteriores.&lt;/p&gt;
+&lt;p&gt;O momento de Networking com um delicioso coffee break foi muito revigorante ^^ Principalmente por conhecer mulheres com histórias incríveis,  esforçadas em superar as dificuldades estruturais das universidades e dos cursos de graduação, motivadas em aprender a programar e seguir a carreira, tivemos participantes que vieram de Caruaru(outra cidade) para participar do evento, outras jovens meninas entraram a pouco tempo na área através de curso técnico e estavam maravilhadas em aprender Python. Imagina só, ouvi que o PyLadies Recife era o primeiro evento de tecnologia que tinham ido, foi muito animador saber de cada notícia em cada conversa que pude ter, uma pena que não deu tempo de conversar com todas. Por fim, constatei: Iniciativas como o PyLadies tem um impacto muito maior do que conseguimos mensurar.&lt;/p&gt;
+&lt;p&gt;Outro diferencial do PyLadies Recife acredito que tenha sido reafirmar o ponto de convergência entre mulheres e homens unidos pela ampliação da participação das mulheres na computação, sem dúvidas esse é um dos resultados positivos para o fortalecimento da comunidade em Recife e em todo Nordeste. Os 10% de homens que participaram realmente são apoiadores da causa e buscaram durante todo o evento contribuir e compartilhar o que sabiam.&lt;/p&gt;
+&lt;p&gt;A organização do evento de lançamento do PyLadies Recife durou cerca de 2 meses, por meio de trabalho remoto de 7 mulheres (Ana, Andreza, Camila, Isabella, Lidiane, Lilian, Vitória), um período de aprendizado, colaboração e que já nos deu novas ideias e melhorias para os próximos encontros. Os apoios e patrocínios também foram essenciais para a realização do evento: PyLadies, PyLadies Brasil, Boleto Cloud, Thoughtworks, UFRPE, InspirAda na Computação, Women Who Code – Recife, PUG-PE, Python Brasil .&lt;/p&gt;
+&lt;p&gt;Eu particularmente estou muito feliz por ter participado do lançamento do PyLadies Recife e agradecida pelo que aprendi com todos antes, durante e depois do evento! O PyLadies Recife era algo que eu queria muito que acontecece e se realizou mais rápido e melhor que imaginava, porque:&lt;/p&gt;
+&lt;p&gt;“Um sonho que se sonha só, é só um sonho que se sonha só, mas sonho que se sonha junto é realidade.”(Raul Seixas)&lt;/p&gt;
+&lt;p&gt;Estão todxs de Parabéns pela construção e participação no PyLadies Recife! Que as boas energias e inspiração desse evento possa ecoar por várias partes do Brasil e do mundo! Para lembrar sempre:&lt;/p&gt;
+&lt;p&gt;“Yes, we can do IT!”&lt;/p&gt;
+&lt;iframe src="//www.youtube.com/embed/QDpYmu1-7KM?feature=player_embedded" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Quem em breve tenhamos mais!!!&lt;/p&gt;
+&lt;p&gt;Acompanhe o PyLadies Recife: &lt;a href="http://brasil.pyladies.com/recife/recife"&gt;Site&lt;/a&gt; &amp;amp; &lt;a href="https://www.facebook.com/pages/PyLadies-Recife/950001281692844?ref=ts&amp;fref=ts"&gt;Faceboook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</summary><category term="eventos"></category><category term="recife"></category></entry></feed>
