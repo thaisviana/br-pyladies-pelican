@@ -25,6 +25,32 @@
     <link rel="stylesheet" href="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/css/post.css">
 
 
+<!--Load Mathjax-->
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        <script>
+        MathJax.Hub.Config({
+            config: ["MMLorHTML.js"],
+            extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
+            jax: ["input/TeX"],
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                processEscapes: false
+            },
+            TeX: {
+                TagSide: "right",
+                TagIndent: ".8em",
+                MultLineWidth: "85%",
+                equationNumbers: {
+                   autoNumber: "AMS",
+                },
+                unicode: {
+                   fonts: "STIXGeneral,'Arial Unicode MS'"
+                }
+            },
+            showProcessingMessages: false
+        });
+    </script>
 
 
 <!-- Icons -->
@@ -39,18 +65,21 @@
 <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://pyladies-curitiba.github.io/br-pyladies-pelican/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://pyladies-curitiba.github.io/br-pyladies-pelican/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://pyladies-curitiba.github.io/br-pyladies-pelican/images/apple-touch-icon-144x144-precomposed.png"><meta name="description" content="Vídeos sobre a Pyladies">
+<meta name="twitter:description" content="Vídeos sobre a Pyladies">
+<meta property="og:description" content="Vídeos sobre a Pyladies">
 
-<meta name="twitter:title" content="Como começar um grupo PyLadies">
+
+<meta name="twitter:title" content="Vídeos sobre a Pyladies">
 <meta name="twitter:creator" content="@Pyladiesbrazil">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Como começar um grupo PyLadies">
-<meta property="og:url" content="http://pyladies-curitiba.github.io/br-pyladies-pelican2015/02/09/como-comecar-um-grupo-pyladies/">
+<meta property="og:title" content="Vídeos sobre a Pyladies">
+<meta property="og:url" content="http://pyladies-curitiba.github.io/br-pyladies-pelican/videos">
 
 
     </head>
-    <body class="post-template">
+    <body class="">
         <header class="notepad-site-head">
 <div class="notepad-site-head-menu">
     <a class="notepad-blog-logo" href="http://pyladies-curitiba.github.io/br-pyladies-pelican"><img src="http://pyladies-curitiba.github.io/br-pyladies-pelican/images/pyladies-avatar.png" alt="Pyladies Logo" /></a>
@@ -70,70 +99,16 @@
         </ul>
     </div>
     <div class="clearfix"></div>
-</div><div class="notepad-post-title-simple row">
-    <div class="small-12 columns">
-        <div class="notepad-post-meta-simple">
-            <h1>Como começar um grupo PyLadies</h1>
-            <p>by <a target="blank" href="">Gabriela Cavalcante</a> &#8212; on <a href="http://pyladies-curitiba.github.io/br-pyladies-pelican/tags/index.html#info" data-toggle="tooltip" title="Posts tagged with info" rel="tag">info</a> <strong><time datetime="2015-02-09T00:00:00-02:00">09/Feb/2015</time></strong></p>
-        </div>
-    </div>
-</div>
-        </header>
+</div>        </header>
         <div class="layout">
             <main class="notepad-content" role="main">
-<article class="notepad-post-content post tag-simple">
-    <div>
-        <p>Bateu aquela vontade de começar uma iniciativa que movimente as meninas da sua comunidade e que te ligue a uma rede de outras meninas por todo o mundo?</p>
-<p>Acho que o PyLadies pode ser o que você está procurando, mas sempre bate aquela dúvida... "Como é que eu começo?".</p>
-<p>No fim de Janeiro nós fizemos um <a href="https://www.youtube.com/watch?v=QMzYwpqLRvE">Hangout</a> especialmente para esclarecer dúvidas sobre o PyLadies e o processo de inicío de novos grupos. Caso você não tenha participado, nós gravamos com carinho para você dar uma conferida.</p>
-<iframe src="https://www.youtube.com/embed/QMzYwpqLRvE" frameborder="0" allowfullscreen></iframe>
-
-<p><br></p>
-<p>Se você ainda tem dúvidas sobre como o PyLadies funciona, posso citar uma das características mais interessantes do grupo e que por si só já explica muito sobre nós: somos uma COMUNIDADE. Somos um grupos de pessoas que fazem acontecer com o objetivo de melhorar o ambiente em que vivemos. E fazemos isso pelo prazer de ver mudanças e melhorias. Pelo prazer de colaborar e contribuir. Sabendo que não somos os donos do movimento, mas somos partes dele... e fazemos apenas com que ele cresça e continue. Então, o que é necessário para começar um grupo PyLadies no local em que você mora? Bem, basta ter iniciativa e vontade de contribuir.</p>
-<p>Algumas pessoas sempre nos perguntam se tem algum processo para serem aceitas para começarem a contribuir ou para começar grupos locais. Ou então se existem requisitos necessários para ser uma 'PyLady'. Nós queremos apenas que você entenda o propósito do grupo e queira contribuir. Contribuir ensinando, educando, colaborando, programando, incentivando, compartilhando ou agindo como puder para fazer com que mais meninas sejam incentivadas.</p>
-<p>Não precisamos que você já saiba programar em Python, ou que saiba programar. Queremos que você esteja interessada. Se ainda estiver insegura com relação a conteúdos de programação, nós podemos encaminhar cursos, marcar hangots, mandar materiais, acompanhar seu crescimento, trocar email corrigindo código... o que for possível, nós estamos dispostas. Só precisamos que você também esteja.</p>
-<p>Ainda quer saber mais informações? Dá uma olhada no nosso <a href="http://brazilpyladies.gitbooks.io/handbook/">Handbook</a>, lá você vai encontrar dicas, sugestões e informações necessárias para começar seu grupo. Se ainda ficar alguma dúvida, nos mande um email (brazil@pyladies.com), um <a href="https://twitter.com/PyLadiesBrazil">tweet</a> ou uma mensagem no <a href="https://www.facebook.com/pyladies.brasil">facebook</a>. Vamos te responder com o maior prazer =]</p>
-<p>Até mais para tod@s,
-qualquer coisa é só gritar.<br>
-<a href="http://i-am-gabi.github.io/">Gabi</a>.</p>
-<p><br/></p>
-    </div>
+    <article class="notepad-page-content">
+        <div class="title small-12 columns">
+            <h1>Vídeos sobre a Pyladies</h1>
+        </div>
+        <div></div>
+    </article>
     <div class="cf"></div>
-<div class="row text-center">
-    <section class="notepad-post-share">
-        <h4>Gostou? Compartilhe:</h4>
-        <a class="twitter-icon" href="https://twitter.com/intent/tweet?text=&quot;Como começar um grupo PyLadies&quot;%20http://pyladies-curitiba.github.io/br-pyladies-pelican2015/02/09/como-comecar-um-grupo-pyladies/%20via%20&#64;pyladiesbrazil"
-            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
-            <i class="fa fa-twitter"></i>
-        </a>
-        <a class="facebook-icon" href="https://www.facebook.com/sharer/sharer.php?u=http://pyladies-curitiba.github.io/br-pyladies-pelican2015/02/09/como-comecar-um-grupo-pyladies/"
-            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook">
-            <i class="fa fa-facebook"></i>
-        </a>
-        <a class="google-icon" href="https://plus.google.com/share?url=http://pyladies-curitiba.github.io/br-pyladies-pelican2015/02/09/como-comecar-um-grupo-pyladies/"
-           onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Share on Google+">
-            <i class="fa fa-google-plus"></i>
-        </a>
-    </section>
-</div>    <div class="cf"></div>
-    <section class="notepad-disqus row">
-        <div class="small-12 columns">
-            <h1 class="notepad-comments-header">Comments</h1>
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    var disqus_shortname = 'pyladiesbrasil'
-    var disqus_identifier = "2015/02/09/como-comecar-um-grupo-pyladies/";
-    var disqus_url = "http://pyladies-curitiba.github.io/br-pyladies-pelican/2015/02/09/como-comecar-um-grupo-pyladies/";
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>        </div>
-    </section>
-</article>
             <div class="row wrap-videos">
                 <div class = "video"><embed src="//www.youtube.com/embed/4oHw6LcViMI"></div>
                 <div class = "video"><embed src="//www.youtube.com/embed/5M9iFmMqcmc"></div>
@@ -182,6 +157,8 @@ qualquer coisa é só gritar.<br>
     <script>window.jQuery || document.write('<script src="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/js/jquery-1.11.1.min.js"><\/script>')</script>
     <script src="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/js/modernizr.js"></script>
     <script src="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/js/foundation.min.js"></script>
+    <script src="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/js/background-check.js"></script>
+    <script src="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/js/post-header-animations.js"></script>
     <script src="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/js/notepad.js"></script>
     <script src="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/js/scripts.min.js"></script>
     <script src="http://pyladies-curitiba.github.io/br-pyladies-pelican/theme/js/nprogress.js"></script>
