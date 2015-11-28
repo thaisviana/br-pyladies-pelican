@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2015/05/16/comunidade-com-c-maiusculo/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2015/05/16/comunidade-com-c-maiusculo/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2015/03/26/encontro-pyladies-recife/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2015/03/26/encontro-pyladies-recife/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2015/03/11/minha-experiencia-na-cpbr8/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2015/03/11/minha-experiencia-na-cpbr8/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2015/02/09/como-comecar-um-grupo-pyladies/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2015/02/09/como-comecar-um-grupo-pyladies/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2015/01/22/hangout-pyladies/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2015/01/22/hangout-pyladies/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2015/01/21/pyladies-first/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2015/01/21/pyladies-first/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2014/10/18/primeiro-encontro-no-brasil/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2014/10/18/primeiro-encontro-no-brasil/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2014/10/18/welcome-to-pyladies/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2014/10/18/welcome-to-pyladies/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/2014/09/19/primeiro-encontro-recife/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2014/09/19/primeiro-encontro-recife/</loc>
     <priority>0.8</priority>
   </url>
 
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/about/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/about/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/events/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/events/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/ladies/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/ladies/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/locations/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/locations/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>http://pyladies-curitiba.github.io/br-pyladies-pelican/videos/</loc>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/videos/</loc>
     <priority>1.0</priority>
   </url>
 
