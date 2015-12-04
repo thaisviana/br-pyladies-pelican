@@ -2,8 +2,9 @@ html, body {
   width: 100% !important;
   height: 100% !important;
 }
+
 .layout {
-  width: 1200px;
+  width: 1100px;
   margin: 0 auto;
 }
 @media screen and (max-width: 40.063em) {
@@ -18,11 +19,17 @@ html, body {
   }
   .post { width: 100% !important; }
   .post p { text-align: left; }
+
+  ul.notepad-menu {
+	z-index: 999;
+  }
 }
 
+/*
 .notepad-site-head {
-  height: 144px;
+  height: 80px;
 }
+*/
 
 /* Eventos */
 
@@ -170,8 +177,7 @@ html, body {
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
 .wrap {
-  max-width: 800px;
-  padding: 0 140px;
+  max-width: 1100px;
   margin: 0 auto;
   zoom: 1;
 }
@@ -201,7 +207,7 @@ html, body {
 }
 
 .wrap-events {
-  max-width: none;
+  max-width: 1100px;
 }
 
 @media screen and (max-width: 600px) {
@@ -237,9 +243,7 @@ h1, h2, h3, h4, h5, h6 {
   background-position: 50% 50%;
   background-repeat: no-repeat; }
 
-header, main, footer {
-  position: relative;
-  z-index: 11; }
+/*header, main, footer { position: relative; }*/
 
 main, .notepad-share-icons, .notepad-disqus {
   background: white;
@@ -251,13 +255,11 @@ main, .notepad-share-icons, .notepad-disqus {
 .notepad-blog-menu {
   padding-top: 0;
   padding-bottom: 0;
-  margin-right: 0.9375rem;
-  margin-top: 1.7%;
   float: right;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 4rem;
-  height: 5rem; }
+  height: 80px; }
   .notepad-blog-menu .notepad-mobile-menu a {
     display: inline-block;
     outline: none;
@@ -347,13 +349,18 @@ main, .notepad-share-icons, .notepad-disqus {
               border-bottom: 0.1875rem solid #e51843; } }
 
 .notepad-site-head .notepad-site-head-menu {
+  height: 80px;
+  max-width: 1100px;
+  margin: 0 auto;
  }
   .notepad-site-head .notepad-site-head-menu .notepad-blog-logo {
     display: inline-block;
-    max-height: 5rem; }
+    line-height: 80px; }
     .notepad-site-head .notepad-site-head-menu .notepad-blog-logo img {
-      height: 120px;
-      margin: 10%; }
+      height: 60px;
+      vertical-align: middle;
+      display: inline-block;
+    }
   .notepad-site-head .notepad-site-head-menu .title {
     display: inline-block;
     padding: 0;
@@ -427,29 +434,26 @@ main, .notepad-share-icons, .notepad-disqus {
       font-size: 6.25rem;
       padding-bottom: 12.5rem; } }
 
-.notepad-content .notepad-index-post {
-  /*visibility: hidden; -- uncomment to have the fadeIn effect back (as also line :561)*/
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem; }
-  .notepad-content .notepad-index-post .datetime {
-    margin-bottom: 2.5rem; }
+.notepad-content .notepad-index-post { }
+.notepad-content .notepad-index-post .post-header {
+    min-height: 93px;
+    margin-bottom: 2%; }
   @media only screen and (min-width: 40.063em) {
     .notepad-content .notepad-index-post {
       width: 33%;
       display: inline-block;
-      min-height: 350px;
+      min-height: 30px;
       margin-top: 3.375rem;
       margin-bottom: 3px; }
-      .notepad-content .notepad-index-post .datetime {
+      .notepad-content .notepad-index-post .post-header {
         margin-bottom: 0; } }
   .notepad-content .notepad-index-post {
     width: 33%;
     display: inline-block;
-    min-height: 350px;
+    min-height: 300px;
     margin-top: 3.375rem;
     margin-bottom: 3px; }
     .notepad-post-meta {
-      width: 28%;
       display: inline-block;
     }
     .notepad-content .notepad-index-post .notepad-post-meta .day {
