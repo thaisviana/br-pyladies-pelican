@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/2016/07/26/pyladies-no-fisl17/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://staging-brasil-pyladies.herokuapp.com/2015/05/16/comunidade-com-c-maiusculo/</loc>
     <priority>0.8</priority>
   </url>
@@ -49,6 +54,11 @@
 
   <url>
     <loc>https://staging-brasil-pyladies.herokuapp.com/about/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://staging-brasil-pyladies.herokuapp.com/blog/</loc>
     <priority>1.0</priority>
   </url>
 
