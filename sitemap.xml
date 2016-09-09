@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>http://brasil.pyladies.com/2016/09/08/campanha-pyladies-na-python-brasil/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://brasil.pyladies.com/2016/08/22/o-que-falar-dessa-campus-que-mal-acabou-e-ja-nos-da-saudades/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://brasil.pyladies.com/2016/08/14/lojinha-pyladies-brasil/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>http://brasil.pyladies.com/2016/07/26/pyladies-no-fisl17/</loc>
     <priority>0.8</priority>
   </url>
